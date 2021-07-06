@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "riskLevel",
+    "version": "1",
+    "enumerationValues": [
+      {
+        "value": "High",
+        "synonyms": [
+          "High"
+        ]
+      },
+      {
+        "value": "Maximum",
+        "synonyms": [
+          "Maximum"
+        ]
+      },
+      {
+        "value": "Low",
+        "synonyms": [
+          "Low"
+        ]
+      },
+      {
+        "value": "Minimal",
+        "synonyms": [
+          "Minimal"
+        ]
+      }
+    ],
+    "valueSelectionStrategy": "TOP_RESOLUTION"
+  }
+}
