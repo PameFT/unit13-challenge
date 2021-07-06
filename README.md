@@ -75,7 +75,7 @@ Configure the response cards for the `riskLevel` slot as is shown bellow:
 | ----------------------------------- | ----------------------------------- |
 | ![Card 3](RoboAdvisor/Images/card3.png)  | ![Card 4](RoboAdvisor/Images/card4.png)  |
 
-**[riskLevel_Export](#riskLevel_Export):**
+**[riskLevel_Export](#RoboAdvisor/Starter_Files/riskLevel_Export):**
 
 ### Build and Test the Robo Advisor:
 
